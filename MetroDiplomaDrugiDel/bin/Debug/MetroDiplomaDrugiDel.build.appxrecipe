@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROMAN-W7</Machine>
+    <WindowsUser>Roman</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MetroDiplomaDrugiDel.exe">
+      <PackagePath>MetroDiplomaDrugiDel.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MetroDiplomaDrugiDel.pdb">
+      <PackagePath>MetroDiplomaDrugiDel.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Win8.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.pdb">
+      <PackagePath>Microsoft.Practices.ServiceLocation.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Win8.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>MVVMLight.Nuget.Readme.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\BingMapsView.xaml">
+      <PackagePath>BingMapsView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MediaElementView.xaml">
+      <PackagePath>MediaElementView.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

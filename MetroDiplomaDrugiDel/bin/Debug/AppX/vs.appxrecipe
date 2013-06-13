@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROMAN-W7</Machine>
+    <WindowsUser>Roman</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2440EFC60E3DBA4289D020E377F508ECB08E2D3A6FFFE9DBAAED496B1DEC2EA4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0093518c-0d82-4687-857e-1b0640034dea_1.0.0.0_neutral__ce822qknqby4a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0093518c-0d82-4687-857e-1b0640034dea_ce822qknqby4a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0093518c-0d82-4687-857e-1b0640034dea</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Roman</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-13T20:31:41.652</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MetroDiplomaDrugiDel.exe">
+      <PackagePath>MetroDiplomaDrugiDel.exe</PackagePath>
+      <Modified>2013-05-13T20:43:17.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MetroDiplomaDrugiDel.pdb">
+      <PackagePath>MetroDiplomaDrugiDel.pdb</PackagePath>
+      <Modified>2013-05-13T20:43:17.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2013-05-12T20:48:48.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2013-05-12T20:48:48.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2013-05-12T20:48:48.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.pdb</PackagePath>
+      <Modified>2013-05-12T20:48:48.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.pdb">
+      <PackagePath>GalaSoft.MvvmLight.Win8.pdb</PackagePath>
+      <Modified>2013-05-12T20:48:48.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.pdb">
+      <PackagePath>Microsoft.Practices.ServiceLocation.pdb</PackagePath>
+      <Modified>2013-05-12T20:48:48.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Extras.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.xml</PackagePath>
+      <Modified>2013-05-12T20:48:48.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\GalaSoft.MvvmLight.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Win8.xml</PackagePath>
+      <Modified>2013-05-12T20:48:48.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\packages\MvvmLightLibs.4.1.27.0\lib\netcore45\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+      <Modified>2013-05-12T20:48:48.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-05-12T20:39:56.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>MVVMLight.Nuget.Readme.txt</PackagePath>
+      <Modified>2013-05-12T20:48:49.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-05-12T20:56:30.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\BingMapsView.xaml">
+      <PackagePath>BingMapsView.xaml</PackagePath>
+      <Modified>2013-05-12T21:03:05.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-05-13T20:18:53.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\MediaElementView.xaml">
+      <PackagePath>MediaElementView.xaml</PackagePath>
+      <Modified>2013-05-12T21:03:22.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-13T20:31:41.211</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

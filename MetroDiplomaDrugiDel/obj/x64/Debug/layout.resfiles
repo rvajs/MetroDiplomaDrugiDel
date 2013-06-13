@@ -1,0 +1,11 @@
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+App.xaml
+BingMapsView.xaml
+Common\StandardStyles.xaml
+MainPage.xaml
+MediaElementView.xaml
+Common\ReadMe.txt
+MVVMLight.Nuget.Readme.txt

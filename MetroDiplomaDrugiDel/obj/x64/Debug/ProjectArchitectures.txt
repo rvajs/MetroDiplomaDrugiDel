@@ -1,0 +1,1 @@
+F:\Development\Net\Projects\Windows8\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel\MetroDiplomaDrugiDel.csproj;x64

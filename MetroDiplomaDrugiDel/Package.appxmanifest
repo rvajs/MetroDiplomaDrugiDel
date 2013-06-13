@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="0093518c-0d82-4687-857e-1b0640034dea" Publisher="CN=Roman" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>MetroDiplomaDrugiDel</DisplayName>
+    <PublisherDisplayName>Roman</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MetroDiplomaDrugiDel.App">
+      <VisualElements DisplayName="MetroDiplomaDrugiDel" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="MetroDiplomaDrugiDel" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="picturesLibrary" />
+    <Capability Name="musicLibrary" />
+    <Capability Name="videosLibrary" />
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+    <DeviceCapability Name="microphone" />
+    <DeviceCapability Name="webcam" />
+  </Capabilities>
+</Package>
